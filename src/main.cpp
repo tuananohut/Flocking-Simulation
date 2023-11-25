@@ -8,7 +8,7 @@ int main()
 {
 	sf::ContextSettings settings;
 	settings.antialiasingLevel = 10;
-	sf::RenderWindow window(sf::VideoMode(800, 600), "SFML Setup", sf::Style::Default, settings);
+	sf::RenderWindow window(sf::VideoMode(800, 600), "Flocking Simulation", sf::Style::Default, settings);
 	window.setFramerateLimit(60);
 
 	for(int i = 0; i < 100; i++)
