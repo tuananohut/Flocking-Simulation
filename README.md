@@ -6,6 +6,7 @@ Hello, this is a flocking simulation. I used SFML.
 
 ### How it works? 
 https://youtu.be/e7WxNZbxggs - Black and white
+
 https://youtu.be/SjnZw9wFwO8 - Colorful
 
 ![Flocking Simulation 26 11 2023 12_31_07](https://github.com/tuananohut/Flocking-Simulation/assets/57767763/e2b6d574-0a63-4572-970e-a2be73813800)
