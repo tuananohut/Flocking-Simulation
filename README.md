@@ -14,6 +14,9 @@ https://youtu.be/SjnZw9wFwO8 - Colorful
 
 ### References:
 https://www.youtube.com/watch?v=mhjuuHl6qHM&list=WL&index=116&t=433s
+
 https://www.red3d.com/cwr/boids/
+
 https://en.wikipedia.org/wiki/Boids
+
 https://eater.net/boids
